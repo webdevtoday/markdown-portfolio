@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+# First list:
+
+- First item;
+- Second item;
+  - Third item;
+
+## Second list:
+
+* :smile:
+* :+1:
+  * :+1:
